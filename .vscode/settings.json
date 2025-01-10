@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c70744f7-bac7-40c5-977b-4d421b541307/resourceGroups/ultan_rag/providers/Microsoft.Web/sites/aichatbot01-test",
+    "appService.deploySubpath": "."
+}
